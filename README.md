@@ -1,4 +1,8 @@
+### Based on Flutter Version 3.16.7
+
 # Movie Ticket Booking App
+
+
 
 Welcome to the Movie Ticket Booking App! This app simplifies the process of booking movie tickets by
 providing a user-friendly interface to browse movies, view movie details, select theaters, choose
@@ -72,7 +76,7 @@ Provider: State management in the app is handled using the Provider package for 
 ## Installation
 
 Clone the repository to your local machine.
-Ensure you have Flutter and Dart installed on your system.
+Ensure you have Flutter version 13.6.7 and Dart installed on your system.
 Run flutter pub get to install dependencies.
 Launch the app on your preferred device using flutter run.
 Contributing
