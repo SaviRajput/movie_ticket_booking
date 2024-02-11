@@ -10,6 +10,8 @@ Browse Movies:
 Users can explore a variety of movies available for booking.
 Each movie is presented with its title, poster, and basic details.
 ![home.jpeg](demo/home.jpeg)
+
+
 ## View Movie Details:
 
 Tapping on a movie poster or "Book Now" button provides users with more information about the
@@ -18,22 +20,44 @@ Users can read the movie's synopsis, view its trailer, and check other relevant 
 Select Theater and Seat:
 After reviewing the movie details, users can proceed to select a theater for booking.
 ![details.jpeg](demo/details.jpeg)
+
+
 ![select_location.jpeg](demo/select_location.jpeg)
+
+
 ![available_cinemas.jpeg](demo/available_cinemas.jpeg)
+
+
 They can choose their preferred seats for the selected showtime.
 ![select_seat.jpeg](demo/select_seat.jpeg)
+
+
 Book Tickets:
 Once the seats are selected, users can book tickets for the movie.
 ![selected_seats.jpeg](demo/selected_seats.jpeg)
+
+
 The app provides a seamless booking experience, ensuring a hassle-free transaction.
+
+
 ![payment_screen.jpeg](demo/payment_screen.jpeg)
+
+
 ![payment_success.jpeg](demo/payment_success.jpeg)
+
+
 ## My Bookings:
 
 Users can view their booked tickets in the "My Bookings" section.
 This section displays all the tickets purchased by the user along with booking details.
+
+
 ![side_menu.jpeg](demo/side_menu.jpeg)
+
+
 ![my_bookings.jpeg](demo/my_bookings.jpeg)
+
+
 ## Technologies Used
 
 Flutter: The app is built using the Flutter framework, allowing for cross-platform compatibility.
