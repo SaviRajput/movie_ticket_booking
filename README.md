@@ -9,6 +9,8 @@ seats, and book tickets.
 Browse Movies:
 Users can explore a variety of movies available for booking.
 Each movie is presented with its title, poster, and basic details.
+
+
 ![home.jpeg](demo/home.jpeg)
 
 
@@ -19,6 +21,8 @@ selected movie.
 Users can read the movie's synopsis, view its trailer, and check other relevant details.
 Select Theater and Seat:
 After reviewing the movie details, users can proceed to select a theater for booking.
+
+
 ![details.jpeg](demo/details.jpeg)
 
 
