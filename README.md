@@ -15,6 +15,9 @@ Users can explore a variety of movies available for booking.
 Each movie is presented with its title, poster, and basic details.
 
 
+
+
+
 ![home.jpeg](demo/home.jpeg)
 
 
